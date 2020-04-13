@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-13T08:07:39.142Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="V8CeOvu9dj2G8lnu0Pv8" version="12.9.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-13T08:11:34.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="ANpXr3F3C6pGC60vqe66" version="12.9.11" type="github">
   <diagram id="ayey3KlVrD0ILfc367-J" name="第 1 页">
-    <mxGraphModel dx="786" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,20 +20,20 @@
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-2" value="关联" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.481;entryY=1.065;entryDx=0;entryDy=0;endArrow=open;endFill=0;exitX=-0.006;exitY=0.682;exitDx=0;exitDy=0;startArrow=none;startFill=0;strokeWidth=2;exitPerimeter=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JtvI3fdrLGXxT-ijpQSm-29" target="JtvI3fdrLGXxT-ijpQSm-27">
           <mxGeometry x="0.317" relative="1" as="geometry">
-            <mxPoint x="1161" y="75" as="sourcePoint" />
-            <mxPoint x="640" y="99" as="targetPoint" />
+            <mxPoint x="1185" y="75" as="sourcePoint" />
+            <mxPoint x="664" y="99" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1158" y="486" />
+              <mxPoint x="1182" y="486" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=diamondThin;startFill=0;endArrow=open;endFill=0;strokeWidth=2;entryX=0.497;entryY=1.071;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.019;exitY=0.795;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JtvI3fdrLGXxT-ijpQSm-29" target="JtvI3fdrLGXxT-ijpQSm-35">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1420" y="500" as="sourcePoint" />
-            <mxPoint x="1450" y="250" as="targetPoint" />
+            <mxPoint x="1444" y="500" as="sourcePoint" />
+            <mxPoint x="1474" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1449" y="491" />
+              <mxPoint x="1473" y="491" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -87,7 +87,7 @@
           <mxGeometry y="34" width="160" height="36" as="geometry" />
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-25" value="&lt;&lt;Step&gt;&gt;" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1081" y="180" width="160" height="80" as="geometry" />
+          <mxGeometry x="1105" y="180" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-26" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="JtvI3fdrLGXxT-ijpQSm-25">
           <mxGeometry y="26" width="160" height="8" as="geometry" />
@@ -96,7 +96,7 @@
           <mxGeometry y="34" width="160" height="46" as="geometry" />
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-28" value="StepContext" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="430" width="160" height="120" as="geometry" />
+          <mxGeometry x="1244" y="430" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-29" value="- step: Step&#xa;- contextData: ContextData" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JtvI3fdrLGXxT-ijpQSm-28">
           <mxGeometry y="26" width="160" height="44" as="geometry" />
@@ -108,7 +108,7 @@
           <mxGeometry y="78" width="160" height="42" as="geometry" />
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-32" value="ContextData" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="92" width="300" height="160" as="geometry" />
+          <mxGeometry x="1324" y="92" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-33" value="- algorithmModelConfigure: AlgorithmModelConfigure&#xa;- algorithmFiled: AlgorithmFiled&#xa;- modelCalculateService:ModelCalculateService&#xa;- mysqlConfigure: MysqlConfigure" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JtvI3fdrLGXxT-ijpQSm-32">
           <mxGeometry y="26" width="300" height="84" as="geometry" />
@@ -123,7 +123,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-36" value="TaskStatusMonitor" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="690" width="300" height="160" as="geometry" />
+          <mxGeometry x="1174" y="690" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-37" value="+ context: StepContext&#xa;+ timer: Timer&#xa;+ algorithmModelConfigure: AlgorithmModelConfigure&#xa;+ modelCalculateService: ModelCalculateService" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="JtvI3fdrLGXxT-ijpQSm-36">
           <mxGeometry y="26" width="300" height="74" as="geometry" />
@@ -135,7 +135,7 @@
           <mxGeometry y="108" width="300" height="52" as="geometry" />
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-40" value="TimerTask" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1515" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-41" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="JtvI3fdrLGXxT-ijpQSm-40">
           <mxGeometry y="26" width="120" height="8" as="geometry" />
@@ -146,8 +146,8 @@
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-43" value="组合" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=diamondThin;startFill=1;endArrow=open;endFill=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JtvI3fdrLGXxT-ijpQSm-36" target="JtvI3fdrLGXxT-ijpQSm-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1300" y="620" />
-              <mxPoint x="1300" y="620" />
+              <mxPoint x="1324" y="620" />
+              <mxPoint x="1324" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -225,11 +225,11 @@
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="JtvI3fdrLGXxT-ijpQSm-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="770" as="targetPoint" />
+            <mxPoint x="929" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-64" value="GraphMiningStepMonitor" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="800" y="435" width="300" height="140" as="geometry" />
+          <mxGeometry x="779" y="435" width="300" height="140" as="geometry" />
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-65" value="+ context: StepContext&#xa;+ timer: Timer&#xa;+ algorithmModelConfigure: AlgorithmModelConfigure&#xa;+ modelCalculateService: ModelCalculateService" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JtvI3fdrLGXxT-ijpQSm-64">
           <mxGeometry y="26" width="300" height="74" as="geometry" />
@@ -272,7 +272,7 @@
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-77" value="+ getStepNum():String&#xa;+ handle(StepContext)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JtvI3fdrLGXxT-ijpQSm-74">
           <mxGeometry y="78" width="250" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="JtvI3fdrLGXxT-ijpQSm-116" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;strokeWidth=2;" edge="1" parent="1" source="JtvI3fdrLGXxT-ijpQSm-78" target="JtvI3fdrLGXxT-ijpQSm-64">
+        <mxCell id="JtvI3fdrLGXxT-ijpQSm-116" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.573;entryY=-0.007;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;strokeWidth=2;entryPerimeter=0;" edge="1" parent="1" source="JtvI3fdrLGXxT-ijpQSm-78" target="JtvI3fdrLGXxT-ijpQSm-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-78" value="GraphMiningStep" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -297,19 +297,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-122" value="StepCotext.handle()&lt;br&gt;内部调用Step.handle()。" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="570" width="150" height="40" as="geometry" />
+          <mxGeometry x="1444" y="570" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-123" value="" style="edgeStyle=none;endArrow=none;exitX=0.4;exitY=0;dashed=1;html=1;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="JtvI3fdrLGXxT-ijpQSm-122" parent="1" target="JtvI3fdrLGXxT-ijpQSm-31">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="1440" y="530" as="targetPoint" />
+            <mxPoint x="1464" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-128" value="TaskStatusMonitor.execute()&lt;br&gt;调用StepContext.handle()" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="590" width="180" height="40" as="geometry" />
+          <mxGeometry x="1134" y="590" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-129" value="" style="edgeStyle=none;endArrow=none;exitX=0.5;exitY=1;dashed=1;html=1;strokeWidth=2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" source="JtvI3fdrLGXxT-ijpQSm-128" parent="1" target="JtvI3fdrLGXxT-ijpQSm-36">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="1270" y="890" as="targetPoint" />
+            <mxPoint x="1294" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-92" value="" style="edgeStyle=none;endArrow=none;exitX=0.5;exitY=1;dashed=1;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="JtvI3fdrLGXxT-ijpQSm-90" parent="1" target="JtvI3fdrLGXxT-ijpQSm-49">
