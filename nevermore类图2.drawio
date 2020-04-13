@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-13T07:53:54.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="7yngfs3MeKFsPneGgLHx" version="12.9.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-13T07:56:02.803Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="ywOkVkYjqS24Svig4fip" version="12.9.11" type="github">
   <diagram id="ayey3KlVrD0ILfc367-J" name="第 1 页">
     <mxGraphModel dx="786" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -279,6 +279,14 @@
         </mxCell>
         <mxCell id="JtvI3fdrLGXxT-ijpQSm-112" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JtvI3fdrLGXxT-ijpQSm-27" target="JtvI3fdrLGXxT-ijpQSm-28">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JtvI3fdrLGXxT-ijpQSm-122" value="StepCotext.handle()内部调用Step.handle()。" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="570" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JtvI3fdrLGXxT-ijpQSm-123" value="" style="edgeStyle=none;endArrow=none;exitX=0.4;exitY=0;dashed=1;html=1;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="JtvI3fdrLGXxT-ijpQSm-122" parent="1" target="JtvI3fdrLGXxT-ijpQSm-31">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="1440" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
