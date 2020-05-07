@@ -1,1 +1,43 @@
-<mxfile host="www.draw.io" modified="2020-05-07T07:00:19.616Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" version="13.0.8" etag="DfSvJgu3LjAnIUBXc6lR" type="github"><diagram id="n0zqCbzWv7PBuQ0D99zU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-05-07T07:08:31.592Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="i3hliiaw6owPYIJlVVIS" version="13.0.8" type="github">
+  <diagram id="n0zqCbzWv7PBuQ0D99zU" name="第 1 页">
+    <mxGraphModel dx="1412" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TT5IRZ_qFk8nQn3z9Dtw-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TT5IRZ_qFk8nQn3z9Dtw-1" target="TT5IRZ_qFk8nQn3z9Dtw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TT5IRZ_qFk8nQn3z9Dtw-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TT5IRZ_qFk8nQn3z9Dtw-7" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TT5IRZ_qFk8nQn3z9Dtw-2" target="TT5IRZ_qFk8nQn3z9Dtw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TT5IRZ_qFk8nQn3z9Dtw-2" value="选择数据表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TT5IRZ_qFk8nQn3z9Dtw-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TT5IRZ_qFk8nQn3z9Dtw-6" target="TT5IRZ_qFk8nQn3z9Dtw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TT5IRZ_qFk8nQn3z9Dtw-6" value="选择特征" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TT5IRZ_qFk8nQn3z9Dtw-11" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TT5IRZ_qFk8nQn3z9Dtw-8" target="TT5IRZ_qFk8nQn3z9Dtw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TT5IRZ_qFk8nQn3z9Dtw-8" value="选择模型" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TT5IRZ_qFk8nQn3z9Dtw-10" value="运算" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TT5IRZ_qFk8nQn3z9Dtw-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TT5IRZ_qFk8nQn3z9Dtw-3" target="TT5IRZ_qFk8nQn3z9Dtw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TT5IRZ_qFk8nQn3z9Dtw-3" value="1. 选择数据表，数据库是默认的吗？&lt;br&gt;&lt;br&gt;2. 表名是如何同步到MySQL中的？&amp;nbsp;&lt;br&gt;&lt;br&gt;3. 该表名首先应该存储在MYSQL中，是否需要根据创建人做隔离？" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="130" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
